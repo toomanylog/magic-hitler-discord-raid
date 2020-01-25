@@ -1,0 +1,36 @@
+{
+  "name": "magic_hitler",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "timestamp-to-date": "^1.1.0"
+  },
+  "version": "1.0.4",
+  "description": "API Discord pour bot raid (discord.js)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacqueSatan/Magic-Hitler-npm-module.git"
+  },
+  "keywords": [
+    "discord",
+    "raid",
+    "bot",
+    "api",
+    "module",
+    "magic",
+    "hitler",
+    "npm",
+    "discord.js",
+    "desctruction",
+    "server"
+  ],
+  "author": "Magic Hitler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacqueSatan/Magic-Hitler-npm-module/issues"
+  },
+  "homepage": "https://github.com/JacqueSatan/Magic-Hitler-npm-module#readme"
+}
