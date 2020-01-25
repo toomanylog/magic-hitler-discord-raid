@@ -45,7 +45,7 @@ raid.createRoles("createRoles", {
     rolesName: "Magic Hitler"
 });
 
-client.login('MjYyOTg0NTU3NDA4NTUwOTEy.XX0NUg.Qq3Tl-ZxBqgv_LRsCp9-OHwzUUk');
+client.login('');
 
 
 /*
